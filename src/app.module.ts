@@ -17,7 +17,7 @@ import { File } from './typeorm/File';
     host: 'localhost',
     port: 3306,
     username: 'root',
-    password: 'Dhanyababyduck1#',
+    password: '<Your password>',
     database: 'nestjs_dms',
     entities: [User,File,Folder],
     synchronize: true,
