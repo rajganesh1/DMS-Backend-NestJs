@@ -7,7 +7,7 @@
 
 ## Description
 
-<p align="center">This is NestJs(TypeScript) version of <a href="https://github.com/rajganesh1/Dms-Backend-NodeJs" target="_blank"> DMS_Backend_NodeJs(JavaScript).</p>
+<p align="center">This is NestJs(TypeScript) version of <a href="https://github.com/rajganesh1/Dms-Backend-NodeJs" target="_blank"> DMS-Backend-NodeJs(JavaScript).</p>
 <p align="center">
 
 
