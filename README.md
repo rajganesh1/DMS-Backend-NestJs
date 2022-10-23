@@ -8,6 +8,8 @@
 ## Description
 
 <p align="center">This is NestJs(TypeScript) version of <a href="https://github.com/rajganesh1/Dms-Backend-NodeJs" target="_blank"> DMS-Backend-NodeJs(JavaScript).</p>
+<p align="center">Please refer the NodeJs version for technical explanation.</p>
+
 <p align="center">
 
 
@@ -41,18 +43,4 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
+``
